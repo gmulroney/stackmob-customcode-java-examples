@@ -46,7 +46,7 @@ public class Stripe implements CustomCodeMethod {
 
   //Create your Stripe Acct at stripe.com and enter 
   //Your secret api key below.
-  public static final String secretKey = "YOUR_SECRET_KEY_FROM_STRIPE";
+  public static final String secretKey = "sk_test_kNaJjHDfUScYjmhFieYJR41W";
 
   @Override
   public String getMethodName() {
